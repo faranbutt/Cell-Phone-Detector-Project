@@ -10,6 +10,6 @@ can detect the incoming and outing calls, even if the mobile phone is kept in th
 detection of cell phone is introduced.
 # Circuit Diagram
 images/Circuit Diagram.png
-![Image Alt Text](images/Circuit Diagram.png)
+![Image Alt Text](/images/Circuit%20Diagram.png)
 
 
